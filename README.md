@@ -34,7 +34,3 @@ Cada solución se representa como un **vector binario**:
 - Accuracy con selección: **0.9772**  
 El modelo mejora su precisión usando menos variables.
 
----
-
-## ✅ Conclusión
-El algoritmo ABC permite reducir la dimensionalidad del problema manteniendo e incluso mejorando el rendimiento del modelo.
